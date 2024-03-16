@@ -66,10 +66,10 @@
 ## ✳ **Profile Stats**
 <div display="flex" align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devt04&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devhatebug&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devt04&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devhatebug&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </div>
 
